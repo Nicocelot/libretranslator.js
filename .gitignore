@@ -1,0 +1,7 @@
+node_modules
+.npmignore
+tsconfig.json
+Makefile
+no.txt
+tsconfig.json
+dist
